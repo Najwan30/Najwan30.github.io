@@ -36,7 +36,7 @@ h2 {
   text-transform: uppercase;
   color: #ffff;
   font-size: 20px;
-  padding-bottom: 100px;
+  padding-bottom: 10px;
 }
 
 .curtain h2 {
@@ -189,7 +189,4 @@ h2 {
     padding: 20% 3%;
   }
 }
-.image {
-  width: 50px;
-  height: 50px;
-}
+
